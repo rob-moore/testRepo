@@ -1,2 +1,3 @@
-wow it's a super cool readme, well played
+# Cool header
 
+wow it's a super cool readme, well played
